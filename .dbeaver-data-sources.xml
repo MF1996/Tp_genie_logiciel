@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="sqlite_jdbc-15ff731890d-34373fa774ba3ed" provider="generic" driver="sqlite_jdbc" name="SQLite - data.txt" save-password="true" show-system-objects="true" read-only="false">
+		<connection server="" database="C:\Users\Fehim\eclipse-workspace\SWT\data.txt" url="jdbc:sqlite:C:\Users\Fehim\eclipse-workspace\SWT\data.txt" user="mahfoud" password="HgUOJk5WQHbk" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
